@@ -17,7 +17,7 @@ Employee attrition is a major challenge for companies, leading to increased recr
 ✅ **Job Satisfaction:** Lower satisfaction scores were linked to **higher turnover**  
 ✅ **Tenure & Age Impact:** **Employees with <5 years of experience** and those in their **mid-20s to early 30s had higher attrition**  
 
-## 📍 Folder Structure  
+## 📍 Flow Structure  
 📂 **Excel_Cleaning/** – Initial data cleaning in Excel  
 📂 **SQL_Analysis/** – SQL scripts for data querying & analysis  
 📂 **Python_Analysis/** – Python scripts for data visualization & trends analysis  
