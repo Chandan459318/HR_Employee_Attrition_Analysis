@@ -1,0 +1,1001 @@
+Employee_ID,Age,Gender,Department,Job_Role,Monthly_Income,Years_at_Company,Job_Satisfaction,Work_Life_Balance,Overtime,Education_Level,Marital_Status,Attrition
+1001,50,Female,Sales,Analyst,10186,28,4,2,No,Bachelor's,Single,No
+1002,36,Male,IT,Analyst,9102,24,2,4,No,High School,Married,No
+1003,29,Male,IT,Executive,12061,26,3,4,Yes,Bachelor's,Married,No
+1004,42,Male,Sales,Manager,12077,13,4,4,Yes,Master's,Married,No
+1005,40,Male,Operations,Specialist,13193,13,2,1,No,Bachelor's,Divorced,No
+1006,44,Female,IT,Technician,12475,2,2,1,Yes,High School,Single,No
+1007,32,Female,Finance,Analyst,3619,5,2,3,Yes,High School,Divorced,No
+1008,32,Female,Finance,Manager,3882,17,4,3,No,Bachelor's,Single,No
+1009,45,Male,IT,Executive,11988,6,4,4,No,Bachelor's,Married,Yes
+1010,57,Female,Operations,Analyst,6642,2,1,3,Yes,Bachelor's,Single,Yes
+1011,45,Male,Marketing,Executive,14617,4,4,4,No,Bachelor's,Single,No
+1012,24,Female,Sales,Technician,4296,22,4,1,No,Bachelor's,Single,No
+1013,43,Male,Finance,Specialist,11436,26,4,1,No,Master's,Divorced,No
+1014,23,Male,Marketing,Analyst,5895,11,2,1,No,Bachelor's,Single,No
+1015,45,Female,IT,Analyst,9593,8,3,2,No,Master's,Single,Yes
+1016,51,Female,Marketing,Technician,3929,12,1,4,No,Bachelor's,Single,No
+1017,59,Female,HR,Manager,8366,8,3,1,Yes,High School,Divorced,Yes
+1018,23,Female,Finance,Specialist,11711,11,3,4,Yes,Bachelor's,Divorced,No
+1019,42,Male,IT,Analyst,6212,22,4,3,No,Bachelor's,Divorced,Yes
+1020,54,Female,Sales,Specialist,5409,20,1,3,No,PhD,Single,No
+1021,33,Female,Operations,Analyst,11199,8,3,1,Yes,Master's,Married,Yes
+1022,43,Female,IT,Specialist,13717,29,3,4,No,PhD,Married,No
+1023,46,Male,Sales,Executive,6423,8,1,1,No,PhD,Married,No
+1024,48,Male,Operations,Analyst,13211,26,4,3,No,Bachelor's,Single,No
+1025,49,Female,Operations,Specialist,9976,17,3,1,No,Bachelor's,Married,No
+1026,37,Male,IT,Manager,10594,20,2,4,No,Bachelor's,Married,No
+1027,36,Female,Marketing,Executive,8158,20,3,3,Yes,PhD,Married,Yes
+1028,24,Male,Marketing,Executive,6667,23,2,2,Yes,Master's,Single,No
+1029,58,Male,Operations,Manager,14863,16,4,3,No,High School,Married,No
+1030,28,Male,Marketing,Specialist,13993,14,3,2,Yes,Master's,Married,Yes
+1031,42,Male,HR,Technician,8973,11,1,1,No,High School,Single,Yes
+1032,30,Female,Operations,Manager,9236,7,1,1,No,Bachelor's,Divorced,No
+1033,39,Female,Operations,Specialist,11277,16,3,4,No,Bachelor's,Married,No
+1034,25,Female,Sales,Manager,14307,13,4,2,Yes,Bachelor's,Divorced,No
+1035,46,Male,Marketing,Manager,5468,27,4,1,Yes,Master's,Married,No
+1036,35,Female,Operations,Analyst,9217,15,1,2,No,Bachelor's,Single,Yes
+1037,30,Female,HR,Specialist,6619,24,3,1,No,High School,Divorced,Yes
+1038,47,Female,Sales,Technician,4636,16,4,3,No,Bachelor's,Divorced,No
+1039,23,Male,IT,Analyst,11155,27,1,1,No,Bachelor's,Divorced,Yes
+1040,41,Male,Operations,Manager,6583,21,2,4,No,Bachelor's,Divorced,No
+1041,49,Male,HR,Manager,7009,23,3,3,No,Bachelor's,Married,No
+1042,28,Female,Finance,Manager,6326,24,2,4,Yes,High School,Married,Yes
+1043,29,Female,HR,Specialist,13410,9,2,3,Yes,Bachelor's,Divorced,No
+1044,56,Female,HR,Specialist,11148,3,4,2,No,Bachelor's,Married,Yes
+1045,35,Male,Sales,Analyst,5217,19,4,4,No,Master's,Divorced,No
+1046,38,Male,IT,Technician,7967,20,4,1,No,High School,Divorced,Yes
+1047,57,Female,Finance,Analyst,5369,5,3,2,No,Bachelor's,Single,No
+1048,25,Male,Marketing,Executive,6638,10,2,1,No,Bachelor's,Divorced,No
+1049,23,Male,Marketing,Manager,13695,17,3,3,No,Bachelor's,Married,No
+1050,27,Male,HR,Manager,12135,15,4,3,No,Bachelor's,Divorced,No
+1051,25,Male,Sales,Manager,8722,23,2,1,No,Master's,Single,Yes
+1052,50,Female,Sales,Analyst,14029,25,3,1,No,PhD,Married,No
+1053,39,Male,Marketing,Analyst,13852,8,3,2,No,PhD,Single,No
+1054,47,Male,Finance,Manager,14128,15,1,1,No,Bachelor's,Single,No
+1055,55,Male,IT,Analyst,7444,21,3,4,Yes,Bachelor's,Divorced,Yes
+1056,31,Male,Finance,Specialist,10618,14,4,4,Yes,Master's,Single,No
+1057,57,Female,Operations,Specialist,6947,20,3,1,No,Bachelor's,Single,Yes
+1058,35,Female,Operations,Analyst,4676,28,2,4,No,High School,Married,No
+1059,52,Male,IT,Manager,4196,7,3,1,No,Master's,Single,Yes
+1060,36,Male,Marketing,Analyst,5787,21,1,2,No,Bachelor's,Divorced,No
+1061,29,Male,IT,Analyst,10432,23,2,4,No,High School,Divorced,No
+1062,35,Male,Sales,Analyst,12653,12,2,4,No,Bachelor's,Divorced,No
+1063,44,Male,Operations,Executive,10927,17,1,1,No,Bachelor's,Single,No
+1064,42,Male,HR,Specialist,6318,17,4,4,No,Bachelor's,Married,Yes
+1065,37,Female,HR,Technician,11858,10,2,3,Yes,Bachelor's,Divorced,No
+1066,39,Male,Marketing,Technician,9689,29,4,2,No,High School,Single,Yes
+1067,45,Female,Sales,Executive,5176,19,2,2,No,High School,Divorced,No
+1068,47,Female,Finance,Analyst,6743,14,2,4,No,Bachelor's,Divorced,No
+1069,46,Male,Sales,Executive,11792,11,4,4,No,Master's,Married,No
+1070,50,Female,HR,Executive,13844,2,2,3,No,Bachelor's,Divorced,No
+1071,36,Female,HR,Manager,7422,18,4,3,Yes,High School,Married,No
+1072,22,Female,Operations,Specialist,6824,7,1,4,No,High School,Single,No
+1073,46,Female,Sales,Technician,12171,12,4,4,No,PhD,Divorced,Yes
+1074,28,Female,Sales,Analyst,5451,26,1,3,No,Bachelor's,Single,No
+1075,30,Female,HR,Technician,3628,2,2,1,Yes,Bachelor's,Single,No
+1076,45,Male,Finance,Technician,12821,27,4,3,Yes,High School,Single,No
+1077,22,Female,Marketing,Specialist,10778,20,2,1,Yes,Master's,Divorced,Yes
+1078,29,Female,Marketing,Technician,6696,18,4,2,Yes,Bachelor's,Married,No
+1079,45,Female,Sales,Technician,14622,6,1,2,Yes,Bachelor's,Divorced,No
+1080,32,Male,Marketing,Executive,6674,24,1,3,No,High School,Single,Yes
+1081,38,Female,HR,Specialist,6929,10,4,1,Yes,Bachelor's,Married,No
+1082,29,Male,HR,Manager,5765,20,1,3,Yes,Master's,Single,No
+1083,56,Female,Sales,Analyst,7369,15,2,3,No,Master's,Married,No
+1084,56,Male,Sales,Technician,11307,5,2,1,Yes,Bachelor's,Divorced,No
+1085,54,Male,Operations,Analyst,7956,20,3,3,Yes,Master's,Married,No
+1086,26,Female,Sales,Manager,13195,3,1,2,No,High School,Divorced,Yes
+1087,49,Female,Finance,Analyst,3692,5,2,4,Yes,Bachelor's,Single,No
+1088,28,Male,Marketing,Manager,6162,25,4,4,No,Bachelor's,Married,Yes
+1089,30,Female,Sales,Executive,4105,8,1,3,Yes,Bachelor's,Single,No
+1090,29,Male,IT,Technician,6008,8,2,1,No,Master's,Married,No
+1091,33,Male,Operations,Manager,5161,8,1,1,No,High School,Divorced,No
+1092,55,Male,IT,Analyst,11345,12,4,2,No,Bachelor's,Married,No
+1093,54,Male,HR,Technician,6699,24,2,1,No,Bachelor's,Married,Yes
+1094,44,Male,Marketing,Executive,6786,23,3,1,No,Bachelor's,Divorced,No
+1095,45,Female,Sales,Technician,12256,8,3,2,No,Bachelor's,Divorced,No
+1096,58,Male,IT,Manager,7200,11,1,3,Yes,High School,Divorced,Yes
+1097,56,Male,Marketing,Executive,4913,14,4,4,No,Master's,Married,No
+1098,43,Female,HR,Analyst,12408,8,2,2,No,Bachelor's,Single,No
+1099,48,Male,Finance,Executive,8520,29,4,3,No,Bachelor's,Married,No
+1100,56,Female,Operations,Executive,13593,24,2,2,Yes,PhD,Married,Yes
+1101,22,Female,Marketing,Specialist,4772,28,1,3,No,Master's,Single,No
+1102,56,Female,Marketing,Executive,13152,10,2,2,No,High School,Divorced,Yes
+1103,58,Male,Finance,Executive,5780,7,4,3,Yes,Master's,Married,Yes
+1104,35,Male,Marketing,Technician,10423,28,4,2,No,High School,Single,No
+1105,24,Male,HR,Analyst,5871,17,1,3,Yes,High School,Divorced,Yes
+1106,22,Female,HR,Technician,3660,4,4,2,No,Bachelor's,Divorced,Yes
+1107,26,Male,Finance,Technician,9242,29,2,4,Yes,PhD,Married,No
+1108,47,Female,Operations,Manager,13827,13,1,4,No,High School,Divorced,No
+1109,35,Male,Sales,Technician,13521,4,2,1,No,Bachelor's,Divorced,Yes
+1110,48,Female,IT,Specialist,13642,5,4,3,No,High School,Single,Yes
+1111,30,Male,Sales,Specialist,4132,26,1,2,No,Master's,Single,No
+1112,36,Male,Marketing,Manager,3699,22,2,3,No,Bachelor's,Divorced,No
+1113,36,Male,IT,Analyst,10470,4,4,4,Yes,Bachelor's,Single,No
+1114,47,Female,Finance,Analyst,13230,18,4,3,No,Bachelor's,Divorced,Yes
+1115,34,Female,Finance,Technician,9297,6,3,2,Yes,Master's,Married,Yes
+1116,53,Male,Operations,Technician,10812,24,4,3,No,PhD,Single,Yes
+1117,53,Male,IT,Technician,7557,24,2,2,Yes,Bachelor's,Divorced,Yes
+1118,25,Female,HR,Analyst,5179,23,1,4,No,Bachelor's,Divorced,No
+1119,51,Female,IT,Executive,14030,22,3,4,No,PhD,Single,Yes
+1120,58,Female,Marketing,Specialist,12065,2,4,4,No,High School,Single,No
+1121,44,Male,HR,Executive,11275,23,4,1,No,Master's,Married,No
+1122,36,Female,Finance,Executive,4422,11,4,4,Yes,Master's,Divorced,No
+1123,50,Male,IT,Analyst,13867,28,2,3,No,High School,Married,No
+1124,57,Female,Sales,Executive,6180,14,3,1,No,Bachelor's,Married,No
+1125,34,Male,Operations,Manager,7316,5,2,4,Yes,Bachelor's,Married,No
+1126,53,Female,Sales,Technician,9696,6,3,3,No,Bachelor's,Single,No
+1127,28,Female,Operations,Manager,12583,10,1,3,No,Bachelor's,Married,No
+1128,43,Female,Marketing,Specialist,14410,8,2,3,No,Bachelor's,Single,No
+1129,49,Female,Sales,Technician,3614,14,2,2,No,Bachelor's,Single,No
+1130,23,Female,IT,Executive,14163,24,1,1,No,Bachelor's,Married,No
+1131,27,Male,IT,Specialist,14757,3,3,3,No,Bachelor's,Married,No
+1132,49,Female,Sales,Technician,14768,12,4,2,Yes,High School,Divorced,No
+1133,49,Female,IT,Executive,7570,16,1,4,No,Master's,Married,No
+1134,41,Female,Marketing,Manager,3270,28,4,3,No,High School,Divorced,Yes
+1135,51,Male,HR,Technician,5468,23,4,2,Yes,Master's,Married,Yes
+1136,32,Female,Marketing,Executive,12582,17,1,3,No,Bachelor's,Married,No
+1137,49,Male,Operations,Manager,14546,1,3,1,No,Bachelor's,Married,Yes
+1138,46,Female,Marketing,Specialist,6607,23,4,1,No,Master's,Married,No
+1139,54,Female,Operations,Specialist,13775,10,1,4,No,Bachelor's,Divorced,Yes
+1140,22,Male,IT,Specialist,6075,25,2,3,Yes,Bachelor's,Divorced,No
+1141,48,Female,HR,Specialist,3289,23,2,2,No,High School,Married,No
+1142,34,Male,IT,Analyst,11120,10,2,4,Yes,Bachelor's,Married,No
+1143,24,Male,Finance,Technician,13672,21,1,3,No,Bachelor's,Divorced,No
+1144,27,Female,IT,Technician,9614,24,2,4,No,High School,Single,No
+1145,29,Male,Operations,Analyst,6252,2,4,2,No,Bachelor's,Single,No
+1146,48,Female,IT,Executive,10415,9,2,4,Yes,High School,Single,No
+1147,30,Female,IT,Executive,9771,22,2,4,No,Bachelor's,Divorced,Yes
+1148,58,Male,HR,Specialist,3278,13,4,4,No,High School,Divorced,No
+1149,54,Male,IT,Manager,14116,25,2,3,Yes,High School,Single,No
+1150,45,Male,HR,Executive,3580,16,4,2,No,High School,Single,No
+1151,36,Male,Sales,Manager,7958,18,2,1,No,PhD,Married,No
+1152,53,Female,Finance,Technician,11445,19,4,3,No,High School,Divorced,No
+1153,53,Female,HR,Manager,7276,12,2,1,Yes,Bachelor's,Divorced,Yes
+1154,45,Male,Operations,Technician,10997,8,4,1,Yes,High School,Single,Yes
+1155,33,Female,Sales,Analyst,7776,17,1,3,No,PhD,Single,No
+1156,23,Female,HR,Analyst,3824,15,4,3,No,High School,Divorced,No
+1157,24,Female,HR,Specialist,6832,10,2,2,Yes,PhD,Married,No
+1158,58,Female,Finance,Executive,11891,15,2,2,Yes,Bachelor's,Single,No
+1159,38,Male,Operations,Specialist,8445,15,3,4,No,High School,Divorced,No
+1160,23,Male,Marketing,Technician,4380,23,4,1,No,Master's,Divorced,No
+1161,23,Female,Marketing,Specialist,12865,7,1,2,Yes,Bachelor's,Married,No
+1162,49,Male,HR,Manager,13919,13,4,4,No,Bachelor's,Married,Yes
+1163,44,Male,IT,Technician,9534,17,4,2,No,Master's,Single,Yes
+1164,58,Male,Operations,Analyst,6156,9,1,3,Yes,PhD,Single,Yes
+1165,53,Female,Sales,Executive,14580,8,4,2,No,Bachelor's,Single,Yes
+1166,54,Female,IT,Technician,7307,20,1,1,No,Bachelor's,Divorced,Yes
+1167,22,Female,IT,Technician,8634,26,1,2,No,Master's,Single,Yes
+1168,40,Male,Operations,Manager,11575,27,4,1,No,Bachelor's,Divorced,No
+1169,23,Female,HR,Executive,8810,21,4,3,No,Master's,Single,No
+1170,47,Female,HR,Analyst,11533,18,2,1,No,Bachelor's,Married,No
+1171,53,Male,HR,Technician,8934,13,2,2,Yes,Bachelor's,Married,Yes
+1172,27,Female,HR,Technician,13179,16,3,4,No,PhD,Divorced,No
+1173,53,Female,Marketing,Manager,6109,9,3,3,No,High School,Married,No
+1174,25,Male,HR,Specialist,7082,12,4,2,Yes,Bachelor's,Divorced,Yes
+1175,32,Male,Marketing,Analyst,13990,12,1,3,Yes,Bachelor's,Divorced,No
+1176,38,Male,Marketing,Executive,6240,6,3,3,Yes,Bachelor's,Married,Yes
+1177,59,Female,HR,Technician,13180,19,4,2,No,High School,Divorced,No
+1178,45,Female,Finance,Technician,9028,28,3,2,Yes,Master's,Married,No
+1179,26,Female,Sales,Analyst,14606,7,1,4,Yes,Bachelor's,Single,No
+1180,55,Male,IT,Specialist,4849,25,4,3,No,Bachelor's,Single,No
+1181,27,Male,Marketing,Technician,11497,3,1,3,No,Master's,Married,No
+1182,43,Female,Operations,Analyst,14805,16,4,2,Yes,Bachelor's,Married,No
+1183,32,Female,Operations,Manager,5749,18,3,1,No,High School,Married,No
+1184,37,Male,Sales,Specialist,9680,16,2,2,No,High School,Married,Yes
+1185,54,Male,Operations,Executive,12327,23,3,3,No,PhD,Single,Yes
+1186,30,Male,Finance,Technician,3205,7,3,2,No,High School,Divorced,No
+1187,27,Male,Operations,Analyst,10352,4,2,4,Yes,Bachelor's,Divorced,No
+1188,37,Female,IT,Manager,7591,27,2,1,No,Bachelor's,Single,No
+1189,50,Male,IT,Executive,6450,25,4,2,No,Bachelor's,Divorced,Yes
+1190,24,Female,Marketing,Analyst,10214,8,4,4,Yes,High School,Single,No
+1191,41,Female,HR,Analyst,6811,13,1,3,Yes,Bachelor's,Divorced,Yes
+1192,57,Female,Finance,Executive,14814,13,1,2,No,Bachelor's,Married,No
+1193,40,Male,Marketing,Manager,14791,17,3,3,Yes,PhD,Married,No
+1194,47,Male,Finance,Manager,13743,17,2,4,No,High School,Married,No
+1195,24,Male,HR,Specialist,8141,5,1,3,Yes,Bachelor's,Single,Yes
+1196,40,Male,Operations,Technician,11501,6,3,4,No,Bachelor's,Single,No
+1197,41,Female,Operations,Executive,5708,19,2,4,No,Bachelor's,Divorced,No
+1198,53,Male,HR,Executive,4991,13,4,4,No,Bachelor's,Divorced,No
+1199,28,Male,Marketing,Executive,11463,25,3,2,No,Bachelor's,Divorced,No
+1200,54,Female,HR,Manager,14834,28,4,3,No,Bachelor's,Single,No
+1201,39,Male,Sales,Technician,13014,26,1,3,No,Master's,Divorced,No
+1202,22,Female,IT,Specialist,6273,14,1,1,No,Bachelor's,Married,No
+1203,32,Female,Marketing,Analyst,7538,22,2,1,No,Bachelor's,Divorced,No
+1204,49,Female,Finance,Analyst,11712,4,3,1,No,High School,Married,No
+1205,46,Female,Sales,Executive,12168,28,4,1,No,High School,Single,No
+1206,44,Female,Marketing,Technician,6722,7,2,3,No,High School,Married,Yes
+1207,52,Female,HR,Manager,6551,8,1,4,No,High School,Married,No
+1208,51,Female,HR,Technician,13965,25,1,4,Yes,Bachelor's,Married,No
+1209,56,Female,HR,Technician,13744,13,3,2,No,Master's,Single,Yes
+1210,28,Male,HR,Manager,5832,27,4,4,No,Bachelor's,Single,No
+1211,37,Male,Finance,Executive,8679,6,3,3,No,Bachelor's,Single,Yes
+1212,47,Male,Sales,Technician,9579,6,4,3,No,High School,Single,No
+1213,23,Male,Operations,Analyst,3152,24,4,3,No,Bachelor's,Divorced,No
+1214,22,Female,IT,Manager,8754,28,3,2,No,High School,Single,No
+1215,33,Male,Finance,Specialist,14156,21,2,1,Yes,PhD,Married,No
+1216,26,Female,Finance,Executive,14108,3,3,4,Yes,Bachelor's,Single,No
+1217,58,Male,Operations,Manager,5800,28,3,3,No,PhD,Divorced,No
+1218,53,Male,Operations,Specialist,8310,3,1,3,No,Master's,Divorced,Yes
+1219,30,Male,IT,Specialist,12944,13,1,1,Yes,Bachelor's,Divorced,Yes
+1220,56,Female,IT,Technician,5610,22,3,3,Yes,Bachelor's,Married,Yes
+1221,40,Male,Operations,Technician,4104,2,3,4,Yes,High School,Single,No
+1222,37,Female,HR,Technician,13728,16,1,2,No,Bachelor's,Single,Yes
+1223,24,Female,Finance,Manager,10361,22,4,3,No,PhD,Single,Yes
+1224,41,Male,Marketing,Manager,7199,29,3,4,No,High School,Married,No
+1225,45,Male,IT,Executive,6854,6,2,3,No,Master's,Married,No
+1226,54,Male,IT,Technician,10263,8,2,1,No,Bachelor's,Divorced,No
+1227,45,Female,Operations,Specialist,14686,23,2,3,No,Master's,Divorced,Yes
+1228,32,Male,Sales,Analyst,4914,8,3,3,No,PhD,Single,Yes
+1229,29,Female,Marketing,Executive,10365,25,4,2,Yes,Bachelor's,Married,No
+1230,57,Female,Marketing,Manager,6072,6,4,1,No,Bachelor's,Married,No
+1231,59,Male,IT,Executive,12198,14,1,1,No,Bachelor's,Single,No
+1232,41,Male,HR,Executive,3406,3,3,2,No,Master's,Single,No
+1233,56,Female,Sales,Executive,3166,10,4,3,Yes,PhD,Divorced,No
+1234,46,Female,Marketing,Executive,3508,3,3,4,Yes,Master's,Divorced,Yes
+1235,56,Female,IT,Analyst,4661,27,1,1,Yes,Bachelor's,Divorced,No
+1236,46,Male,Marketing,Technician,6664,12,1,1,No,Bachelor's,Single,No
+1237,50,Female,Sales,Specialist,6489,17,1,3,No,Master's,Single,No
+1238,39,Male,Sales,Executive,3680,27,2,3,Yes,Bachelor's,Divorced,No
+1239,39,Female,Finance,Executive,5524,29,3,1,No,Master's,Divorced,No
+1240,23,Female,Operations,Executive,5120,5,1,3,No,Bachelor's,Married,Yes
+1241,56,Male,Operations,Technician,8260,20,3,4,Yes,High School,Married,No
+1242,37,Female,IT,Manager,7357,25,2,1,No,Bachelor's,Divorced,No
+1243,57,Male,Sales,Manager,4363,9,2,4,Yes,Bachelor's,Divorced,No
+1244,54,Male,Finance,Analyst,12523,21,1,4,No,High School,Married,No
+1245,25,Female,Finance,Manager,5292,26,1,3,No,High School,Divorced,No
+1246,54,Male,Marketing,Executive,4538,20,4,4,No,Bachelor's,Married,No
+1247,35,Male,Marketing,Executive,6408,7,3,3,Yes,High School,Married,No
+1248,42,Female,Finance,Executive,10742,22,1,2,No,Bachelor's,Married,Yes
+1249,41,Male,Marketing,Analyst,11752,4,4,3,No,Master's,Single,No
+1250,29,Male,Sales,Executive,12291,13,3,4,No,PhD,Single,Yes
+1251,28,Male,HR,Manager,4903,13,1,2,Yes,Master's,Divorced,No
+1252,24,Female,Sales,Technician,3174,10,4,3,Yes,PhD,Married,No
+1253,38,Male,Finance,Technician,13348,18,4,4,Yes,Bachelor's,Single,No
+1254,54,Female,Finance,Specialist,5230,17,3,1,Yes,Bachelor's,Divorced,No
+1255,33,Female,Sales,Manager,7287,20,4,1,No,Bachelor's,Divorced,No
+1256,43,Male,Marketing,Executive,7160,20,3,3,No,Master's,Divorced,Yes
+1257,43,Male,Marketing,Technician,10106,13,3,3,No,Bachelor's,Divorced,No
+1258,51,Male,Operations,Manager,12689,17,3,1,Yes,High School,Divorced,Yes
+1259,59,Female,Finance,Technician,6171,22,2,4,No,Master's,Married,No
+1260,59,Male,IT,Executive,4567,4,4,4,Yes,High School,Divorced,No
+1261,29,Male,Operations,Technician,4151,1,3,4,No,Bachelor's,Married,No
+1262,48,Male,Marketing,Specialist,10619,1,1,3,No,High School,Single,No
+1263,48,Male,Sales,Specialist,9033,15,2,2,No,Bachelor's,Divorced,Yes
+1264,55,Male,Marketing,Technician,11560,13,2,2,No,Bachelor's,Single,Yes
+1265,42,Female,Sales,Manager,7946,17,4,2,Yes,High School,Married,No
+1266,51,Female,Operations,Manager,11234,24,3,2,No,Bachelor's,Married,No
+1267,54,Male,Finance,Manager,4907,26,4,2,No,Bachelor's,Single,Yes
+1268,49,Male,Marketing,Technician,6490,8,2,3,No,Master's,Divorced,No
+1269,54,Male,Sales,Manager,5535,18,3,3,No,Master's,Divorced,No
+1270,26,Male,Finance,Executive,7173,27,1,2,No,Bachelor's,Single,Yes
+1271,40,Female,IT,Specialist,14065,13,3,3,Yes,Master's,Single,No
+1272,25,Male,Sales,Executive,13016,23,2,3,No,Bachelor's,Single,Yes
+1273,56,Female,Operations,Manager,4293,14,1,2,Yes,Bachelor's,Divorced,No
+1274,38,Female,IT,Executive,7769,8,3,4,No,High School,Divorced,No
+1275,49,Male,IT,Manager,7796,8,1,3,No,Bachelor's,Divorced,No
+1276,51,Female,HR,Technician,9871,27,1,4,Yes,Bachelor's,Single,No
+1277,50,Female,Marketing,Executive,14578,26,2,3,No,High School,Divorced,Yes
+1278,27,Female,Sales,Technician,5972,15,1,3,No,Bachelor's,Married,No
+1279,56,Female,IT,Technician,6922,27,4,2,No,Master's,Single,No
+1280,58,Male,HR,Analyst,7997,13,2,3,No,Bachelor's,Divorced,Yes
+1281,45,Male,Operations,Manager,10032,7,4,1,No,High School,Single,No
+1282,50,Female,Finance,Specialist,3992,5,1,1,No,Bachelor's,Married,No
+1283,52,Male,Sales,Manager,11112,17,4,2,No,Bachelor's,Married,No
+1284,56,Male,IT,Specialist,8287,28,3,4,No,Bachelor's,Single,No
+1285,54,Male,Marketing,Manager,13578,25,1,4,No,Bachelor's,Single,Yes
+1286,42,Male,HR,Technician,5240,29,3,4,No,Bachelor's,Married,Yes
+1287,53,Male,IT,Executive,4476,16,4,1,No,Master's,Single,No
+1288,44,Female,Marketing,Executive,9426,23,3,4,Yes,Bachelor's,Married,Yes
+1289,54,Male,IT,Analyst,14599,2,1,4,Yes,PhD,Married,No
+1290,24,Male,Sales,Specialist,3389,22,3,2,Yes,Bachelor's,Divorced,No
+1291,39,Male,Sales,Specialist,3999,18,4,4,No,Bachelor's,Single,No
+1292,46,Male,Sales,Specialist,4855,17,4,1,No,Bachelor's,Single,No
+1293,52,Female,Operations,Technician,11125,7,4,1,No,High School,Divorced,No
+1294,24,Female,Operations,Specialist,11850,13,1,1,No,High School,Married,No
+1295,45,Female,HR,Executive,5763,18,4,2,Yes,Bachelor's,Single,No
+1296,53,Female,Sales,Technician,6663,29,1,2,No,Master's,Divorced,Yes
+1297,43,Male,Marketing,Manager,7986,14,3,3,No,PhD,Divorced,No
+1298,44,Female,IT,Specialist,4481,18,4,4,No,Bachelor's,Single,No
+1299,23,Male,Finance,Specialist,10256,13,3,2,No,High School,Divorced,Yes
+1300,48,Male,Marketing,Manager,6731,11,2,1,No,Bachelor's,Married,No
+1301,23,Male,Operations,Specialist,10262,21,3,1,No,Bachelor's,Divorced,Yes
+1302,47,Male,Operations,Manager,3451,21,2,2,No,Master's,Married,No
+1303,38,Male,Marketing,Technician,13667,16,3,2,No,Master's,Married,No
+1304,54,Female,Operations,Executive,14414,23,1,2,No,Master's,Single,Yes
+1305,30,Female,Sales,Manager,12729,17,3,3,Yes,Bachelor's,Divorced,No
+1306,50,Female,HR,Analyst,6093,8,1,1,No,Bachelor's,Married,No
+1307,47,Female,IT,Manager,3882,19,1,3,No,Bachelor's,Married,Yes
+1308,56,Male,HR,Specialist,7408,20,4,3,No,PhD,Divorced,No
+1309,46,Female,IT,Technician,7068,15,1,4,Yes,High School,Married,No
+1310,45,Male,IT,Technician,13758,9,2,1,No,High School,Divorced,No
+1311,34,Female,HR,Manager,6277,20,4,1,No,High School,Single,No
+1312,28,Male,Marketing,Executive,11566,10,4,2,Yes,Master's,Married,No
+1313,57,Male,IT,Analyst,14889,12,3,2,No,Bachelor's,Married,No
+1314,41,Female,HR,Technician,10951,21,1,4,Yes,Bachelor's,Divorced,Yes
+1315,22,Male,IT,Specialist,14254,23,1,3,Yes,PhD,Divorced,No
+1316,29,Male,Finance,Specialist,7690,20,2,2,Yes,PhD,Divorced,No
+1317,37,Female,Marketing,Executive,14442,1,3,2,Yes,Bachelor's,Divorced,No
+1318,35,Male,Sales,Technician,7595,25,3,1,No,Bachelor's,Married,Yes
+1319,33,Female,IT,Manager,7559,20,4,1,Yes,Master's,Single,No
+1320,44,Female,Finance,Specialist,10291,9,4,2,Yes,PhD,Single,No
+1321,36,Female,Sales,Executive,11160,22,4,1,Yes,Bachelor's,Single,No
+1322,49,Male,Sales,Technician,3112,15,2,4,Yes,Bachelor's,Single,No
+1323,55,Male,IT,Technician,8131,1,2,2,Yes,Bachelor's,Divorced,No
+1324,23,Male,HR,Technician,6197,12,4,1,No,Master's,Married,No
+1325,53,Female,IT,Technician,13570,3,3,4,Yes,Bachelor's,Married,No
+1326,44,Male,Finance,Technician,13116,11,2,1,No,Bachelor's,Married,No
+1327,43,Female,Sales,Specialist,3139,2,3,1,No,High School,Divorced,No
+1328,46,Female,IT,Executive,4424,16,3,1,Yes,PhD,Married,No
+1329,43,Male,HR,Technician,5949,9,1,2,No,Bachelor's,Divorced,Yes
+1330,43,Female,IT,Analyst,6168,15,4,3,Yes,High School,Married,No
+1331,27,Male,Marketing,Analyst,11708,12,1,1,Yes,Bachelor's,Single,No
+1332,36,Male,HR,Executive,13808,1,4,4,Yes,Bachelor's,Divorced,Yes
+1333,58,Male,Finance,Manager,9043,13,4,2,No,Bachelor's,Married,No
+1334,54,Male,Sales,Manager,9989,14,3,2,No,Master's,Single,No
+1335,29,Male,IT,Manager,10236,25,4,4,No,Bachelor's,Single,No
+1336,26,Female,HR,Analyst,9261,25,3,1,No,PhD,Single,No
+1337,25,Female,Marketing,Manager,3887,8,3,3,No,High School,Divorced,Yes
+1338,27,Female,HR,Specialist,6104,8,4,1,Yes,High School,Divorced,Yes
+1339,53,Male,Operations,Technician,3049,27,3,4,No,High School,Married,No
+1340,51,Male,Marketing,Analyst,6951,12,3,2,Yes,Bachelor's,Single,Yes
+1341,56,Male,Finance,Executive,6560,1,3,3,Yes,Bachelor's,Married,No
+1342,37,Female,Sales,Executive,3018,11,2,2,Yes,Master's,Married,No
+1343,34,Male,Finance,Technician,7821,8,3,4,Yes,Master's,Single,No
+1344,51,Female,IT,Analyst,9340,10,2,1,No,Bachelor's,Married,No
+1345,40,Female,HR,Manager,11058,19,2,3,No,PhD,Divorced,No
+1346,38,Male,Operations,Manager,12665,11,3,2,Yes,Bachelor's,Married,No
+1347,40,Male,Marketing,Specialist,5606,7,3,2,No,Master's,Single,Yes
+1348,49,Female,Marketing,Specialist,10846,11,2,2,No,Bachelor's,Divorced,No
+1349,47,Male,HR,Manager,11643,17,2,1,No,Bachelor's,Divorced,No
+1350,58,Female,Operations,Executive,9432,1,3,3,Yes,Master's,Married,Yes
+1351,47,Male,HR,Executive,6765,26,3,1,No,Bachelor's,Married,No
+1352,44,Male,IT,Specialist,5438,29,4,1,No,High School,Divorced,Yes
+1353,30,Female,Finance,Technician,12741,21,2,1,No,Bachelor's,Married,No
+1354,33,Male,Marketing,Manager,9358,21,2,4,No,Bachelor's,Single,Yes
+1355,22,Female,IT,Specialist,14666,8,4,4,Yes,Master's,Married,Yes
+1356,22,Male,Finance,Specialist,11319,23,2,4,Yes,Bachelor's,Married,Yes
+1357,55,Female,IT,Manager,8941,24,1,3,No,PhD,Divorced,No
+1358,53,Female,Operations,Manager,10644,6,2,1,No,Bachelor's,Married,No
+1359,46,Male,Marketing,Executive,7855,22,4,1,Yes,Bachelor's,Married,No
+1360,22,Female,HR,Technician,9547,18,1,4,No,Master's,Married,No
+1361,37,Male,HR,Technician,10196,6,3,1,No,Bachelor's,Single,No
+1362,26,Male,Finance,Manager,8911,5,4,1,No,PhD,Married,Yes
+1363,43,Male,Sales,Analyst,9481,13,4,2,No,Bachelor's,Single,No
+1364,50,Female,Operations,Specialist,5761,19,3,1,No,Bachelor's,Single,No
+1365,24,Female,Finance,Specialist,7456,22,4,2,No,High School,Single,No
+1366,33,Male,Sales,Manager,12607,8,2,1,No,Bachelor's,Single,No
+1367,47,Male,IT,Analyst,9361,9,3,3,Yes,Bachelor's,Divorced,No
+1368,37,Female,Operations,Executive,8693,17,4,4,Yes,Master's,Single,Yes
+1369,58,Male,IT,Manager,8788,3,3,2,Yes,Bachelor's,Married,No
+1370,43,Male,Marketing,Manager,3201,19,3,4,Yes,Bachelor's,Single,Yes
+1371,50,Female,Operations,Specialist,9160,11,3,2,Yes,High School,Married,No
+1372,35,Male,Sales,Manager,13561,24,1,2,Yes,High School,Single,No
+1373,49,Female,Marketing,Manager,3517,17,4,2,No,Bachelor's,Divorced,No
+1374,26,Male,HR,Manager,10737,21,1,3,Yes,Master's,Single,No
+1375,51,Female,Sales,Specialist,12533,19,4,1,No,Master's,Single,No
+1376,26,Male,Finance,Executive,4988,2,2,2,Yes,Master's,Divorced,No
+1377,33,Male,HR,Executive,14737,8,2,3,No,Master's,Single,No
+1378,37,Female,HR,Manager,6802,19,2,2,No,Bachelor's,Married,No
+1379,47,Male,Finance,Specialist,8808,7,4,1,Yes,Master's,Single,No
+1380,47,Female,Operations,Executive,14467,28,3,2,No,High School,Single,Yes
+1381,42,Male,HR,Executive,14846,27,3,3,No,Bachelor's,Single,No
+1382,57,Female,Sales,Executive,10162,17,1,1,No,Bachelor's,Divorced,No
+1383,54,Female,Marketing,Specialist,13626,6,1,3,No,High School,Single,No
+1384,51,Female,HR,Specialist,9241,19,2,1,No,Master's,Single,No
+1385,58,Female,Sales,Manager,11399,24,1,1,No,Bachelor's,Married,No
+1386,44,Male,IT,Technician,8633,6,4,4,No,Master's,Single,Yes
+1387,31,Male,Sales,Executive,8755,28,4,4,Yes,Bachelor's,Single,Yes
+1388,26,Female,Marketing,Technician,13825,2,1,4,No,High School,Single,Yes
+1389,57,Female,Sales,Specialist,9309,6,1,1,No,Master's,Single,No
+1390,55,Female,Finance,Specialist,7117,23,1,2,No,Bachelor's,Married,No
+1391,52,Male,Marketing,Specialist,11345,5,1,3,Yes,Bachelor's,Married,No
+1392,31,Male,Operations,Technician,14558,19,2,3,No,High School,Divorced,No
+1393,40,Male,IT,Specialist,4518,20,2,3,No,Bachelor's,Single,Yes
+1394,53,Male,Finance,Manager,9163,4,1,4,Yes,Bachelor's,Divorced,No
+1395,22,Female,Operations,Specialist,5600,22,4,1,No,Bachelor's,Divorced,No
+1396,26,Female,Sales,Analyst,5195,26,2,4,No,PhD,Single,No
+1397,25,Female,Marketing,Technician,6554,17,4,2,No,Master's,Married,No
+1398,37,Male,IT,Analyst,13606,11,3,1,No,Master's,Married,No
+1399,45,Male,Finance,Specialist,5849,4,4,3,No,Master's,Single,No
+1400,37,Male,Operations,Manager,4742,26,1,4,No,Bachelor's,Single,No
+1401,23,Female,Operations,Executive,4306,13,3,4,No,Bachelor's,Married,Yes
+1402,49,Female,IT,Specialist,6849,20,2,2,Yes,High School,Single,Yes
+1403,53,Male,Sales,Manager,10519,26,2,2,Yes,High School,Single,No
+1404,48,Female,IT,Technician,7195,17,3,4,No,PhD,Single,No
+1405,41,Male,Operations,Analyst,8178,9,4,2,Yes,Bachelor's,Married,No
+1406,45,Male,HR,Analyst,5555,4,2,3,Yes,Bachelor's,Divorced,No
+1407,33,Female,Finance,Analyst,5305,23,1,2,No,Bachelor's,Divorced,No
+1408,56,Male,IT,Technician,10619,28,3,2,Yes,Bachelor's,Single,Yes
+1409,54,Female,Operations,Manager,12280,14,1,4,No,High School,Married,No
+1410,54,Male,Sales,Technician,5642,19,3,4,Yes,High School,Single,No
+1411,58,Female,Operations,Analyst,12369,26,2,1,No,High School,Married,Yes
+1412,33,Female,Sales,Specialist,9409,28,4,1,No,Bachelor's,Single,No
+1413,24,Female,IT,Executive,7757,3,3,4,Yes,Bachelor's,Married,No
+1414,22,Male,Sales,Technician,5994,14,3,2,No,High School,Married,No
+1415,54,Male,Marketing,Technician,11751,8,1,2,Yes,Master's,Divorced,No
+1416,31,Female,Marketing,Manager,14156,24,2,1,No,Bachelor's,Single,No
+1417,50,Female,Marketing,Manager,4271,27,1,1,No,Bachelor's,Divorced,No
+1418,34,Male,HR,Technician,4813,28,2,1,No,PhD,Divorced,No
+1419,33,Male,IT,Analyst,14107,1,1,3,No,Bachelor's,Married,No
+1420,52,Male,Operations,Executive,11801,10,3,3,No,Master's,Single,No
+1421,23,Female,Operations,Manager,5461,18,1,1,No,PhD,Married,No
+1422,56,Male,HR,Analyst,7120,16,4,2,No,Bachelor's,Married,Yes
+1423,44,Male,Sales,Specialist,9124,8,2,1,Yes,Master's,Married,Yes
+1424,38,Female,HR,Manager,11475,1,2,3,No,Master's,Single,No
+1425,47,Male,Sales,Analyst,14120,12,3,2,Yes,Bachelor's,Single,No
+1426,29,Male,Sales,Analyst,7396,8,2,3,No,Bachelor's,Married,No
+1427,50,Male,Finance,Executive,12283,24,4,2,Yes,PhD,Single,Yes
+1428,47,Female,Operations,Executive,3816,16,1,3,No,Master's,Married,No
+1429,31,Female,Marketing,Specialist,10304,18,3,2,Yes,Bachelor's,Single,No
+1430,47,Female,Sales,Analyst,10331,4,4,2,Yes,Bachelor's,Single,Yes
+1431,55,Female,Finance,Analyst,3082,6,2,2,No,Master's,Divorced,Yes
+1432,28,Female,Operations,Executive,4920,12,2,2,No,Bachelor's,Married,No
+1433,25,Female,Marketing,Manager,10817,27,4,4,No,Bachelor's,Divorced,No
+1434,32,Female,Sales,Manager,14683,9,1,3,Yes,Master's,Divorced,Yes
+1435,50,Male,Sales,Technician,14336,15,1,3,Yes,Bachelor's,Married,No
+1436,57,Male,HR,Executive,5093,16,3,4,No,Bachelor's,Married,No
+1437,46,Female,HR,Technician,10071,24,2,2,No,Master's,Single,No
+1438,42,Male,Operations,Executive,10967,12,4,2,Yes,Master's,Married,No
+1439,57,Male,Marketing,Specialist,11367,24,1,3,No,Bachelor's,Divorced,No
+1440,31,Female,Sales,Analyst,8285,23,3,4,No,Bachelor's,Divorced,Yes
+1441,58,Male,Operations,Specialist,13896,14,2,2,No,Bachelor's,Married,No
+1442,30,Male,Operations,Executive,7937,13,2,2,No,PhD,Divorced,No
+1443,45,Male,IT,Analyst,3369,25,3,2,No,High School,Single,No
+1444,56,Male,HR,Manager,4818,2,3,1,Yes,Bachelor's,Divorced,No
+1445,56,Male,Marketing,Manager,5101,3,1,4,Yes,Bachelor's,Single,Yes
+1446,57,Female,Sales,Technician,6490,26,4,2,No,Master's,Divorced,No
+1447,39,Female,Operations,Executive,4779,24,2,1,No,High School,Single,No
+1448,53,Female,Sales,Executive,10674,22,4,4,No,Bachelor's,Single,No
+1449,45,Male,IT,Manager,4364,10,2,2,No,High School,Married,No
+1450,44,Female,Marketing,Specialist,10294,9,2,3,No,Master's,Single,Yes
+1451,53,Male,Operations,Analyst,14534,26,4,1,No,Bachelor's,Married,No
+1452,58,Male,Sales,Specialist,6676,20,3,1,Yes,Bachelor's,Divorced,No
+1453,33,Male,HR,Specialist,5426,8,1,2,Yes,Bachelor's,Divorced,No
+1454,34,Male,IT,Manager,11264,10,2,2,No,Master's,Divorced,No
+1455,44,Female,Marketing,Manager,11089,19,3,1,No,Bachelor's,Single,No
+1456,46,Female,IT,Manager,5962,3,2,3,Yes,High School,Divorced,No
+1457,56,Male,HR,Technician,3859,24,1,3,No,Bachelor's,Divorced,Yes
+1458,51,Female,Marketing,Specialist,7138,5,2,4,No,PhD,Married,No
+1459,38,Male,IT,Executive,5424,3,1,2,No,Bachelor's,Married,No
+1460,41,Female,Finance,Analyst,12256,26,1,3,Yes,PhD,Divorced,Yes
+1461,46,Female,HR,Technician,13409,27,2,4,No,Master's,Divorced,No
+1462,43,Male,HR,Executive,7017,16,2,3,Yes,High School,Single,No
+1463,34,Female,HR,Specialist,13451,17,1,2,No,Bachelor's,Single,No
+1464,40,Male,Finance,Manager,14943,15,3,4,Yes,Bachelor's,Divorced,No
+1465,57,Female,Finance,Specialist,13278,3,4,4,No,Bachelor's,Married,No
+1466,33,Male,Sales,Analyst,11560,12,1,4,Yes,Bachelor's,Divorced,Yes
+1467,40,Male,Operations,Technician,13996,9,2,3,No,Bachelor's,Single,No
+1468,33,Female,IT,Technician,11342,21,2,2,No,PhD,Married,No
+1469,30,Female,Sales,Analyst,4134,12,3,4,Yes,Bachelor's,Married,No
+1470,28,Male,IT,Executive,8166,26,4,1,No,Master's,Single,No
+1471,49,Female,Operations,Executive,8119,15,1,2,Yes,High School,Divorced,Yes
+1472,35,Female,Finance,Technician,8694,2,1,1,No,High School,Divorced,No
+1473,52,Male,Operations,Technician,13976,23,4,1,No,Master's,Divorced,No
+1474,40,Male,Finance,Manager,9136,18,1,4,No,Bachelor's,Single,Yes
+1475,37,Female,Operations,Executive,8485,20,4,4,No,Master's,Married,No
+1476,26,Male,Sales,Analyst,7164,12,2,3,No,Bachelor's,Single,No
+1477,56,Male,Marketing,Executive,5346,23,4,3,No,Bachelor's,Divorced,No
+1478,33,Male,Sales,Manager,8039,4,1,3,Yes,Master's,Single,No
+1479,46,Female,IT,Technician,7897,23,4,2,No,Bachelor's,Married,No
+1480,42,Female,Sales,Technician,13442,16,3,3,No,Bachelor's,Single,No
+1481,57,Male,HR,Manager,11252,23,2,1,Yes,PhD,Divorced,Yes
+1482,44,Female,IT,Analyst,8041,16,2,3,No,Bachelor's,Married,No
+1483,37,Male,Operations,Technician,14202,1,4,4,Yes,PhD,Single,Yes
+1484,35,Female,IT,Specialist,6901,22,1,3,No,Master's,Single,Yes
+1485,52,Male,Marketing,Technician,4337,25,3,2,Yes,Master's,Married,Yes
+1486,26,Male,Finance,Specialist,4184,2,2,2,No,High School,Married,Yes
+1487,56,Female,Operations,Manager,7426,3,2,1,No,Bachelor's,Divorced,Yes
+1488,44,Male,IT,Manager,4551,26,1,2,Yes,Master's,Married,No
+1489,50,Female,Operations,Technician,4629,21,1,3,Yes,Bachelor's,Divorced,No
+1490,32,Female,Operations,Executive,12519,25,3,4,No,High School,Single,Yes
+1491,39,Male,Operations,Specialist,4526,20,4,2,No,Bachelor's,Divorced,Yes
+1492,33,Male,Finance,Analyst,12865,17,1,1,Yes,Bachelor's,Single,No
+1493,30,Female,Sales,Technician,4361,20,4,3,Yes,PhD,Married,No
+1494,31,Male,Operations,Analyst,12765,22,3,1,No,Master's,Single,No
+1495,38,Male,HR,Technician,13878,21,4,2,No,Bachelor's,Married,No
+1496,59,Male,Marketing,Executive,7370,29,2,2,No,High School,Single,No
+1497,28,Male,Finance,Executive,8283,1,4,1,No,Master's,Single,No
+1498,34,Male,IT,Executive,10610,20,3,3,Yes,Bachelor's,Single,Yes
+1499,30,Female,Finance,Executive,13558,6,3,2,No,PhD,Single,No
+1500,48,Female,IT,Manager,14949,29,3,4,No,Bachelor's,Divorced,No
+1501,23,Male,Finance,Manager,13626,15,4,2,Yes,Bachelor's,Single,No
+1502,26,Male,IT,Specialist,4993,26,2,3,No,Bachelor's,Divorced,No
+1503,50,Male,Operations,Analyst,3869,26,1,2,No,PhD,Married,No
+1504,58,Female,Sales,Technician,4014,14,2,1,No,Bachelor's,Married,Yes
+1505,59,Male,IT,Technician,13103,20,4,2,No,Bachelor's,Divorced,Yes
+1506,40,Female,IT,Manager,3602,15,4,2,Yes,Bachelor's,Married,No
+1507,29,Female,HR,Technician,3690,14,1,3,No,Master's,Married,No
+1508,22,Female,IT,Manager,11685,25,4,1,No,Master's,Single,No
+1509,43,Male,HR,Specialist,3489,21,3,3,Yes,Bachelor's,Single,No
+1510,38,Female,Marketing,Analyst,9864,24,3,2,No,Bachelor's,Single,No
+1511,28,Male,Operations,Specialist,10240,25,3,4,No,Bachelor's,Divorced,Yes
+1512,46,Female,HR,Executive,13748,26,3,2,No,Bachelor's,Divorced,Yes
+1513,25,Male,Sales,Executive,10786,5,3,3,No,High School,Married,No
+1514,57,Female,Operations,Executive,11024,6,4,4,No,Bachelor's,Single,Yes
+1515,27,Male,HR,Specialist,3294,17,1,3,No,Bachelor's,Divorced,Yes
+1516,52,Female,Operations,Technician,8488,11,1,3,No,High School,Divorced,No
+1517,40,Male,Operations,Analyst,7027,16,3,1,No,Bachelor's,Single,Yes
+1518,48,Male,Operations,Executive,14035,12,4,4,Yes,Master's,Divorced,No
+1519,31,Male,Marketing,Executive,5912,15,2,2,No,Bachelor's,Single,No
+1520,47,Male,Sales,Executive,12909,23,2,3,No,Bachelor's,Married,No
+1521,40,Female,Finance,Analyst,13788,4,4,2,No,Bachelor's,Married,No
+1522,24,Female,Finance,Executive,7744,27,3,1,No,Bachelor's,Married,No
+1523,34,Male,HR,Analyst,4873,18,1,1,No,High School,Single,No
+1524,49,Female,Operations,Executive,6258,21,4,4,No,Master's,Divorced,No
+1525,41,Male,HR,Specialist,5817,28,2,1,Yes,High School,Married,No
+1526,49,Male,Marketing,Specialist,11636,3,2,1,Yes,Bachelor's,Married,Yes
+1527,29,Female,Marketing,Analyst,6641,22,2,2,No,Bachelor's,Married,Yes
+1528,22,Male,IT,Specialist,7458,8,3,1,No,Master's,Divorced,No
+1529,24,Male,Marketing,Analyst,8307,23,2,1,Yes,Bachelor's,Divorced,No
+1530,34,Female,IT,Specialist,11933,3,4,3,Yes,Bachelor's,Single,No
+1531,49,Male,Sales,Specialist,5041,8,4,1,No,High School,Married,No
+1532,46,Male,HR,Analyst,3679,18,2,3,No,Bachelor's,Divorced,Yes
+1533,54,Male,Sales,Technician,13659,10,4,1,No,PhD,Single,No
+1534,59,Male,Marketing,Specialist,14889,25,2,1,No,Master's,Married,No
+1535,27,Female,Sales,Executive,8738,20,2,4,Yes,High School,Divorced,Yes
+1536,53,Female,Sales,Technician,8668,17,1,4,No,Bachelor's,Divorced,No
+1537,42,Female,Sales,Analyst,12550,8,3,3,No,PhD,Single,No
+1538,37,Male,Marketing,Technician,10697,23,3,1,No,Bachelor's,Married,No
+1539,42,Male,Operations,Manager,11033,11,1,2,Yes,Bachelor's,Married,Yes
+1540,32,Female,Sales,Manager,3062,29,1,4,Yes,PhD,Divorced,No
+1541,58,Male,IT,Specialist,10829,5,3,2,Yes,Master's,Married,No
+1542,57,Male,Marketing,Specialist,13751,26,2,4,No,Bachelor's,Single,No
+1543,56,Male,Sales,Executive,14961,13,2,4,No,Bachelor's,Divorced,No
+1544,40,Male,Operations,Technician,10352,21,3,1,No,Bachelor's,Divorced,Yes
+1545,41,Female,Marketing,Manager,9915,23,2,4,No,Master's,Single,No
+1546,39,Female,Finance,Specialist,11326,5,1,2,No,Bachelor's,Divorced,No
+1547,35,Female,Operations,Technician,6644,24,2,4,No,Bachelor's,Married,Yes
+1548,36,Male,IT,Specialist,7970,27,2,3,Yes,Bachelor's,Married,No
+1549,52,Female,Sales,Specialist,13327,13,4,1,No,High School,Divorced,No
+1550,22,Female,Finance,Manager,11003,6,4,1,No,Bachelor's,Single,No
+1551,24,Male,Finance,Manager,6278,29,4,3,No,Bachelor's,Single,Yes
+1552,37,Male,Marketing,Specialist,10296,5,2,3,No,Bachelor's,Married,No
+1553,44,Female,Finance,Analyst,12014,9,3,3,No,Bachelor's,Single,No
+1554,32,Female,IT,Specialist,6074,27,1,4,No,PhD,Divorced,No
+1555,33,Female,IT,Specialist,14173,16,2,1,No,High School,Divorced,No
+1556,31,Female,HR,Executive,11312,2,3,3,No,Master's,Married,No
+1557,53,Male,IT,Executive,10552,1,2,4,No,PhD,Married,Yes
+1558,37,Female,Operations,Executive,4637,8,1,3,No,Bachelor's,Married,No
+1559,29,Female,Finance,Analyst,8103,28,2,2,Yes,Bachelor's,Single,No
+1560,59,Male,IT,Analyst,12116,19,1,2,No,PhD,Divorced,No
+1561,33,Female,Marketing,Specialist,3644,11,2,1,No,Bachelor's,Divorced,No
+1562,45,Male,HR,Executive,5032,28,1,4,Yes,Bachelor's,Divorced,No
+1563,49,Male,Finance,Analyst,5761,12,2,2,Yes,Bachelor's,Married,No
+1564,29,Male,HR,Manager,5068,12,1,2,Yes,Bachelor's,Divorced,No
+1565,49,Female,Finance,Specialist,3241,7,4,4,No,Master's,Single,Yes
+1566,57,Female,Marketing,Technician,5668,26,2,3,No,Master's,Single,Yes
+1567,47,Male,HR,Specialist,3802,13,2,4,No,Master's,Divorced,No
+1568,29,Female,Sales,Technician,8059,27,3,3,No,High School,Married,Yes
+1569,49,Female,Operations,Executive,3195,8,3,2,No,High School,Divorced,No
+1570,49,Male,Operations,Technician,5187,29,1,2,No,Bachelor's,Single,Yes
+1571,58,Male,Finance,Executive,14707,29,2,2,No,High School,Single,No
+1572,57,Female,Sales,Manager,5330,22,1,1,No,Bachelor's,Single,No
+1573,48,Male,HR,Technician,13551,28,4,1,Yes,Bachelor's,Divorced,No
+1574,38,Female,Sales,Specialist,7841,26,3,1,No,Bachelor's,Single,No
+1575,30,Female,Sales,Executive,6606,9,1,4,No,Bachelor's,Married,No
+1576,54,Female,HR,Specialist,11468,7,1,2,No,Bachelor's,Divorced,Yes
+1577,41,Female,Marketing,Analyst,3060,26,3,2,No,Bachelor's,Divorced,Yes
+1578,34,Male,Sales,Executive,14582,21,2,4,No,Bachelor's,Single,No
+1579,49,Male,Sales,Technician,13105,24,1,1,Yes,Bachelor's,Single,No
+1580,50,Male,Marketing,Executive,6927,15,3,4,No,Bachelor's,Married,No
+1581,34,Male,Sales,Specialist,9296,2,2,1,Yes,Master's,Divorced,No
+1582,56,Female,Sales,Manager,5591,23,4,2,No,Master's,Single,No
+1583,27,Female,Sales,Executive,11758,20,3,3,No,PhD,Married,No
+1584,39,Male,Operations,Technician,12763,25,1,1,No,Bachelor's,Single,Yes
+1585,26,Female,IT,Analyst,9121,12,4,2,No,High School,Divorced,No
+1586,46,Female,Marketing,Manager,4200,1,2,2,No,Bachelor's,Single,No
+1587,23,Female,Sales,Analyst,5854,23,2,3,No,Master's,Divorced,No
+1588,31,Male,Operations,Executive,14087,22,3,2,No,Bachelor's,Single,No
+1589,51,Male,Marketing,Specialist,10024,8,3,2,No,Master's,Divorced,No
+1590,26,Male,Finance,Specialist,12428,5,3,1,No,Bachelor's,Married,No
+1591,54,Female,Finance,Technician,9972,15,2,1,No,PhD,Divorced,No
+1592,22,Male,Sales,Specialist,3136,1,4,3,Yes,PhD,Married,Yes
+1593,39,Male,Operations,Manager,4029,1,2,3,No,High School,Divorced,Yes
+1594,53,Male,Operations,Specialist,13348,25,1,2,No,Bachelor's,Married,No
+1595,32,Male,Marketing,Technician,5594,10,2,1,No,Bachelor's,Single,No
+1596,42,Male,Marketing,Executive,10206,22,1,3,Yes,Bachelor's,Divorced,No
+1597,47,Male,Operations,Executive,3661,10,4,3,No,Bachelor's,Single,Yes
+1598,46,Female,Marketing,Specialist,5472,21,3,4,Yes,Bachelor's,Married,Yes
+1599,43,Female,Operations,Analyst,13869,15,3,3,Yes,Bachelor's,Divorced,No
+1600,48,Male,IT,Executive,13500,17,2,2,No,Bachelor's,Divorced,No
+1601,34,Male,Operations,Specialist,3086,22,3,1,No,Bachelor's,Single,No
+1602,54,Female,Finance,Technician,13704,6,4,3,Yes,High School,Divorced,No
+1603,55,Female,Marketing,Specialist,9219,3,3,4,No,Bachelor's,Divorced,Yes
+1604,56,Male,Operations,Executive,11143,13,2,1,No,Bachelor's,Single,No
+1605,22,Male,Operations,Technician,9968,16,4,3,No,Master's,Divorced,No
+1606,42,Male,Marketing,Specialist,14134,8,1,4,Yes,High School,Single,No
+1607,27,Male,IT,Manager,5773,15,2,3,No,Master's,Single,No
+1608,49,Female,IT,Technician,13696,17,1,1,No,Bachelor's,Single,Yes
+1609,38,Male,Marketing,Manager,14502,17,4,1,No,High School,Single,Yes
+1610,26,Male,HR,Analyst,4700,22,2,1,No,Bachelor's,Single,Yes
+1611,52,Male,Marketing,Technician,14862,26,2,2,No,Bachelor's,Married,Yes
+1612,26,Male,Marketing,Manager,5700,13,4,3,Yes,Bachelor's,Married,No
+1613,59,Female,IT,Executive,9815,17,3,2,No,Bachelor's,Single,No
+1614,24,Female,IT,Executive,14821,6,2,1,No,Bachelor's,Married,No
+1615,44,Female,Marketing,Analyst,4647,17,2,4,No,High School,Married,No
+1616,58,Male,Marketing,Technician,9038,16,1,3,No,High School,Divorced,No
+1617,58,Male,Marketing,Technician,8164,14,3,2,Yes,Master's,Single,Yes
+1618,31,Female,IT,Technician,8520,13,1,3,No,Bachelor's,Married,No
+1619,31,Male,Marketing,Analyst,14510,6,1,4,No,Bachelor's,Divorced,No
+1620,40,Male,Marketing,Technician,6687,3,3,2,No,Master's,Divorced,No
+1621,38,Female,Sales,Executive,3596,14,3,1,No,Bachelor's,Single,No
+1622,42,Female,HR,Manager,7545,14,4,2,No,Master's,Single,No
+1623,35,Female,Finance,Executive,11676,15,3,3,No,Bachelor's,Divorced,No
+1624,30,Female,HR,Executive,11837,8,2,3,Yes,High School,Single,No
+1625,22,Male,Sales,Manager,14281,29,3,3,No,PhD,Single,Yes
+1626,34,Male,Finance,Executive,7757,15,4,3,No,Bachelor's,Divorced,No
+1627,25,Female,Marketing,Analyst,7384,22,4,1,No,Master's,Divorced,Yes
+1628,22,Male,Sales,Manager,11912,29,4,2,No,Bachelor's,Single,No
+1629,53,Female,Marketing,Executive,7733,27,3,1,No,Bachelor's,Married,Yes
+1630,55,Female,IT,Specialist,10081,13,3,1,Yes,Master's,Single,No
+1631,49,Male,Operations,Executive,11690,17,1,1,Yes,High School,Married,Yes
+1632,52,Female,Sales,Analyst,10117,21,1,3,No,Master's,Divorced,No
+1633,29,Male,IT,Technician,7729,24,2,3,Yes,Bachelor's,Married,No
+1634,47,Male,Sales,Executive,4673,3,1,3,No,Bachelor's,Divorced,No
+1635,55,Male,Sales,Technician,14259,28,2,2,Yes,Bachelor's,Single,No
+1636,24,Male,IT,Specialist,11306,6,4,4,No,Master's,Single,No
+1637,33,Female,Finance,Executive,14171,5,1,3,No,High School,Divorced,No
+1638,22,Male,HR,Manager,12928,22,3,2,Yes,Bachelor's,Divorced,No
+1639,26,Female,Marketing,Technician,14803,26,1,3,No,Master's,Divorced,No
+1640,51,Female,Sales,Specialist,10178,17,2,3,Yes,Master's,Single,No
+1641,51,Female,Marketing,Manager,13445,23,1,1,No,High School,Single,No
+1642,38,Female,Operations,Manager,5294,25,4,1,Yes,Bachelor's,Married,No
+1643,44,Male,IT,Manager,6630,2,3,1,No,Bachelor's,Divorced,No
+1644,36,Male,Marketing,Manager,3146,26,2,2,No,Bachelor's,Married,No
+1645,58,Female,IT,Executive,6453,15,3,4,Yes,Bachelor's,Single,No
+1646,42,Female,Marketing,Executive,7507,5,3,4,Yes,Bachelor's,Married,No
+1647,35,Male,HR,Executive,8783,26,2,2,No,Bachelor's,Married,Yes
+1648,23,Female,HR,Specialist,10751,20,3,3,Yes,Master's,Single,No
+1649,32,Male,HR,Specialist,13602,6,3,2,No,Master's,Single,No
+1650,59,Female,HR,Specialist,8628,6,1,3,No,Bachelor's,Divorced,No
+1651,55,Male,HR,Analyst,11328,27,3,2,No,Bachelor's,Married,No
+1652,59,Female,HR,Specialist,6360,18,3,2,No,Bachelor's,Single,Yes
+1653,55,Female,IT,Executive,6005,18,3,2,No,Bachelor's,Single,No
+1654,39,Male,Sales,Executive,6552,4,3,4,No,Master's,Married,No
+1655,51,Female,Marketing,Analyst,3018,17,2,1,No,Bachelor's,Single,No
+1656,36,Female,HR,Analyst,5242,25,4,2,Yes,Bachelor's,Divorced,Yes
+1657,48,Male,IT,Specialist,9318,14,1,4,Yes,Bachelor's,Divorced,No
+1658,55,Female,IT,Technician,8097,14,3,1,No,Bachelor's,Married,No
+1659,59,Male,IT,Analyst,11640,13,3,1,No,High School,Divorced,Yes
+1660,54,Male,Sales,Manager,4948,7,2,2,Yes,High School,Single,No
+1661,45,Female,Marketing,Executive,12137,12,4,3,No,Bachelor's,Single,No
+1662,36,Female,Sales,Manager,8618,23,3,3,No,Bachelor's,Single,No
+1663,51,Female,Finance,Executive,7236,15,2,3,Yes,Master's,Single,Yes
+1664,38,Female,IT,Executive,9901,19,1,2,No,Master's,Married,Yes
+1665,26,Female,Finance,Analyst,4920,11,1,3,Yes,Bachelor's,Divorced,No
+1666,50,Female,Operations,Analyst,14169,15,3,4,No,Bachelor's,Divorced,Yes
+1667,25,Female,HR,Manager,7188,12,3,4,Yes,Bachelor's,Single,Yes
+1668,31,Male,HR,Executive,3238,3,4,4,No,Bachelor's,Married,No
+1669,38,Female,Sales,Manager,3204,17,4,4,Yes,Bachelor's,Single,No
+1670,31,Male,Marketing,Technician,13799,3,3,1,No,Bachelor's,Single,No
+1671,38,Female,Finance,Manager,8552,19,2,4,No,Bachelor's,Married,No
+1672,41,Female,Marketing,Specialist,7927,20,4,3,Yes,High School,Married,No
+1673,45,Male,Sales,Manager,14580,4,3,2,No,High School,Single,No
+1674,26,Female,HR,Specialist,14164,3,4,3,No,High School,Divorced,Yes
+1675,55,Female,Marketing,Specialist,7390,26,3,4,Yes,Master's,Single,Yes
+1676,27,Male,Marketing,Specialist,5687,16,1,1,No,Bachelor's,Divorced,No
+1677,23,Female,HR,Technician,7951,12,3,4,No,Bachelor's,Divorced,No
+1678,34,Female,Finance,Manager,9160,8,1,2,No,Bachelor's,Married,No
+1679,32,Female,HR,Manager,8388,24,4,3,No,Master's,Married,No
+1680,44,Male,Marketing,Technician,12540,29,3,2,No,Master's,Single,No
+1681,37,Female,Finance,Executive,8126,29,4,2,Yes,Master's,Divorced,Yes
+1682,52,Female,Finance,Analyst,3816,17,1,2,No,High School,Divorced,Yes
+1683,32,Female,HR,Manager,12012,7,3,3,No,Bachelor's,Single,No
+1684,37,Female,Marketing,Analyst,3192,11,4,4,No,Master's,Single,No
+1685,29,Male,Sales,Technician,4776,18,1,2,No,High School,Single,No
+1686,25,Male,Marketing,Executive,6645,1,4,3,No,Bachelor's,Married,Yes
+1687,25,Female,IT,Executive,9314,3,2,1,Yes,Master's,Single,No
+1688,46,Female,Operations,Executive,11442,4,1,3,Yes,Bachelor's,Single,No
+1689,24,Male,Sales,Technician,4788,13,1,1,Yes,High School,Divorced,No
+1690,53,Male,Finance,Specialist,10374,6,1,3,Yes,High School,Single,No
+1691,24,Female,Sales,Specialist,6700,26,3,4,No,Bachelor's,Divorced,No
+1692,48,Male,Finance,Analyst,13655,14,3,2,Yes,High School,Divorced,No
+1693,50,Female,Finance,Specialist,12359,5,3,4,Yes,Bachelor's,Married,No
+1694,53,Male,Sales,Specialist,6893,16,2,3,Yes,Master's,Single,Yes
+1695,40,Male,Finance,Executive,9811,15,2,2,Yes,High School,Single,No
+1696,42,Male,Finance,Executive,12288,15,1,1,Yes,Master's,Divorced,Yes
+1697,26,Male,IT,Analyst,5679,4,2,3,Yes,Bachelor's,Married,No
+1698,39,Female,Marketing,Manager,13039,8,4,2,No,High School,Married,No
+1699,49,Male,Marketing,Analyst,6904,27,1,1,No,Master's,Single,No
+1700,43,Male,Operations,Analyst,10260,16,1,1,Yes,Master's,Divorced,No
+1701,42,Female,Operations,Technician,3504,28,4,4,No,Bachelor's,Single,No
+1702,27,Male,IT,Technician,12813,16,1,3,No,Master's,Single,No
+1703,22,Male,Operations,Analyst,13664,4,2,1,Yes,Master's,Single,No
+1704,26,Female,Sales,Analyst,13738,13,3,2,Yes,Master's,Single,No
+1705,33,Male,HR,Analyst,12579,26,4,1,No,Bachelor's,Divorced,No
+1706,47,Female,HR,Specialist,14186,28,2,1,No,Master's,Married,No
+1707,55,Female,HR,Technician,9773,13,4,4,Yes,PhD,Single,No
+1708,35,Female,IT,Analyst,6816,2,4,4,Yes,Master's,Single,No
+1709,47,Female,IT,Executive,3717,3,1,2,No,High School,Single,No
+1710,48,Male,Finance,Executive,14676,22,1,4,Yes,Bachelor's,Single,Yes
+1711,30,Female,HR,Specialist,7434,8,2,1,Yes,Bachelor's,Married,Yes
+1712,47,Male,Sales,Specialist,3658,24,4,1,No,High School,Married,Yes
+1713,43,Male,Operations,Manager,8057,15,1,4,No,PhD,Married,No
+1714,51,Male,Sales,Manager,7008,11,1,1,No,High School,Married,No
+1715,38,Male,Operations,Manager,7994,9,4,1,No,High School,Single,No
+1716,47,Male,HR,Specialist,7234,7,2,2,Yes,PhD,Divorced,No
+1717,57,Male,HR,Specialist,6764,13,2,4,Yes,Bachelor's,Married,No
+1718,22,Male,HR,Specialist,14181,2,4,1,No,High School,Married,No
+1719,29,Male,IT,Executive,7637,8,2,4,Yes,Bachelor's,Single,Yes
+1720,56,Male,Operations,Specialist,5104,7,1,2,No,Bachelor's,Single,Yes
+1721,36,Male,IT,Executive,12447,24,4,4,No,High School,Single,No
+1722,43,Female,IT,Manager,9801,12,1,1,No,PhD,Single,No
+1723,35,Female,Marketing,Manager,13674,19,3,4,Yes,Bachelor's,Divorced,No
+1724,47,Female,Sales,Manager,11575,7,3,1,No,Bachelor's,Divorced,Yes
+1725,49,Male,Sales,Analyst,5607,10,2,1,No,Bachelor's,Married,No
+1726,44,Female,Finance,Analyst,11385,29,3,1,No,Bachelor's,Divorced,No
+1727,35,Female,IT,Technician,14999,25,1,2,Yes,Bachelor's,Married,Yes
+1728,45,Female,Operations,Technician,6719,16,3,4,Yes,Bachelor's,Married,Yes
+1729,23,Male,Marketing,Technician,5581,3,1,2,Yes,Bachelor's,Divorced,Yes
+1730,47,Male,Marketing,Analyst,5565,10,2,4,No,Master's,Married,No
+1731,35,Male,Sales,Analyst,5763,6,2,2,No,High School,Single,Yes
+1732,28,Male,IT,Technician,13990,18,1,3,No,Bachelor's,Married,No
+1733,24,Female,Finance,Technician,9328,18,3,1,No,Master's,Single,No
+1734,44,Female,IT,Specialist,8991,5,2,1,Yes,High School,Divorced,Yes
+1735,39,Female,HR,Technician,13531,21,4,2,No,High School,Divorced,Yes
+1736,59,Female,IT,Specialist,6406,29,2,3,Yes,Bachelor's,Married,No
+1737,56,Male,HR,Executive,11923,7,3,1,No,Bachelor's,Single,Yes
+1738,36,Male,HR,Analyst,14064,28,4,4,No,High School,Married,No
+1739,46,Male,Finance,Technician,14312,2,3,2,No,Bachelor's,Divorced,No
+1740,58,Female,Operations,Analyst,7780,11,1,1,No,Bachelor's,Married,Yes
+1741,49,Male,Sales,Analyst,7177,13,4,1,Yes,Bachelor's,Married,No
+1742,31,Male,IT,Analyst,9476,23,3,2,Yes,Bachelor's,Single,Yes
+1743,38,Female,HR,Executive,5604,5,4,2,No,Bachelor's,Divorced,No
+1744,43,Female,IT,Manager,11181,6,3,4,No,Master's,Married,No
+1745,47,Male,Operations,Technician,5382,24,4,4,Yes,PhD,Single,No
+1746,46,Male,Sales,Manager,3531,26,3,1,Yes,Master's,Married,Yes
+1747,38,Male,Operations,Manager,9079,29,1,1,No,Bachelor's,Single,No
+1748,34,Male,Sales,Manager,3634,14,4,2,Yes,Bachelor's,Single,No
+1749,41,Male,Marketing,Analyst,12961,12,4,1,No,Bachelor's,Married,Yes
+1750,46,Male,Sales,Specialist,14996,4,4,1,No,High School,Divorced,No
+1751,25,Female,Finance,Analyst,13562,29,4,2,Yes,High School,Divorced,No
+1752,31,Female,Operations,Analyst,3002,23,1,1,Yes,Bachelor's,Single,No
+1753,24,Female,HR,Manager,11397,6,4,1,No,Bachelor's,Divorced,Yes
+1754,39,Male,Marketing,Analyst,8951,10,2,3,No,Bachelor's,Single,No
+1755,57,Female,Finance,Manager,13813,18,1,4,No,PhD,Divorced,No
+1756,43,Male,IT,Specialist,8626,15,2,2,No,High School,Married,Yes
+1757,55,Male,Operations,Technician,10739,8,4,3,Yes,High School,Divorced,No
+1758,29,Female,HR,Manager,9003,26,3,4,No,High School,Single,No
+1759,40,Male,Sales,Specialist,5890,9,2,4,No,Bachelor's,Single,No
+1760,58,Male,HR,Technician,14385,5,4,4,Yes,Bachelor's,Divorced,Yes
+1761,27,Female,IT,Executive,13858,10,2,3,No,Bachelor's,Married,No
+1762,47,Female,Marketing,Manager,9239,20,4,3,Yes,Bachelor's,Single,No
+1763,55,Female,Marketing,Manager,11026,6,4,4,Yes,Master's,Single,No
+1764,27,Male,Operations,Executive,6306,16,4,1,Yes,Master's,Single,No
+1765,58,Female,Marketing,Executive,3897,24,3,1,No,PhD,Single,No
+1766,54,Female,Operations,Manager,12277,27,2,3,No,Master's,Single,No
+1767,43,Male,Operations,Executive,12471,3,1,3,No,Bachelor's,Married,No
+1768,42,Female,Operations,Analyst,3670,10,1,3,No,High School,Divorced,No
+1769,27,Female,Sales,Technician,10291,11,1,4,No,High School,Married,No
+1770,27,Female,Finance,Technician,4505,11,1,1,Yes,High School,Married,No
+1771,25,Male,Operations,Technician,9460,17,4,3,Yes,Bachelor's,Single,No
+1772,51,Male,Operations,Analyst,14767,4,2,3,Yes,Master's,Married,No
+1773,32,Male,Finance,Executive,8167,4,2,2,Yes,Bachelor's,Single,No
+1774,51,Male,HR,Specialist,13147,17,3,4,No,High School,Married,Yes
+1775,52,Female,Operations,Executive,8255,9,2,2,No,Bachelor's,Single,Yes
+1776,45,Male,Sales,Manager,3249,19,2,1,No,PhD,Single,No
+1777,30,Male,Marketing,Technician,9457,5,2,2,Yes,Bachelor's,Married,No
+1778,24,Female,Marketing,Executive,4892,22,3,2,No,Master's,Married,Yes
+1779,52,Female,IT,Specialist,6439,24,1,2,No,Master's,Divorced,No
+1780,58,Female,IT,Manager,13045,6,2,4,Yes,PhD,Divorced,No
+1781,57,Male,Marketing,Analyst,5854,3,3,1,No,Master's,Divorced,Yes
+1782,45,Male,Marketing,Analyst,12695,22,3,2,No,Master's,Married,No
+1783,52,Male,Sales,Specialist,14577,1,4,4,No,Bachelor's,Married,No
+1784,27,Female,Finance,Manager,14763,20,3,1,No,High School,Single,No
+1785,23,Female,IT,Technician,6792,22,1,3,No,Bachelor's,Divorced,Yes
+1786,41,Male,Finance,Executive,14618,16,2,2,Yes,High School,Single,Yes
+1787,49,Female,Sales,Manager,8330,23,3,1,No,PhD,Single,No
+1788,32,Female,Marketing,Analyst,10871,11,1,2,Yes,Bachelor's,Single,No
+1789,25,Female,Operations,Specialist,11235,13,3,3,Yes,Master's,Single,No
+1790,36,Male,Finance,Specialist,6612,27,3,1,No,Bachelor's,Divorced,No
+1791,27,Female,Marketing,Executive,5618,10,3,4,No,Bachelor's,Single,Yes
+1792,51,Female,Marketing,Specialist,7678,3,3,1,No,PhD,Married,No
+1793,59,Male,HR,Specialist,6163,9,3,4,No,Bachelor's,Married,Yes
+1794,23,Male,Finance,Manager,12480,28,1,1,No,Bachelor's,Married,Yes
+1795,36,Female,Operations,Technician,5942,12,2,4,No,High School,Divorced,No
+1796,32,Female,Finance,Executive,11411,23,2,3,No,Bachelor's,Single,Yes
+1797,29,Male,Marketing,Manager,4925,14,2,3,Yes,Bachelor's,Divorced,No
+1798,47,Male,Operations,Technician,5972,1,2,3,No,Bachelor's,Single,No
+1799,26,Female,Sales,Manager,14705,18,1,1,Yes,Bachelor's,Divorced,Yes
+1800,27,Female,HR,Manager,13640,17,4,3,No,Master's,Divorced,No
+1801,47,Female,Marketing,Specialist,14663,27,4,2,Yes,Master's,Single,No
+1802,25,Female,IT,Technician,13966,9,1,3,No,Bachelor's,Divorced,No
+1803,40,Male,IT,Executive,3990,9,1,4,Yes,Bachelor's,Single,Yes
+1804,41,Female,HR,Executive,14138,23,3,4,No,Master's,Married,No
+1805,54,Female,Sales,Technician,4812,10,3,4,No,Bachelor's,Married,No
+1806,41,Male,Marketing,Specialist,11995,19,3,1,Yes,Bachelor's,Married,No
+1807,33,Female,Finance,Analyst,3489,29,2,2,No,Bachelor's,Divorced,No
+1808,22,Male,HR,Manager,14748,15,3,3,No,Master's,Married,No
+1809,47,Female,Sales,Specialist,8876,5,4,2,No,Bachelor's,Single,Yes
+1810,35,Female,Finance,Technician,12685,15,2,2,Yes,Bachelor's,Married,No
+1811,59,Male,IT,Manager,6645,20,3,4,No,Bachelor's,Married,Yes
+1812,58,Male,IT,Executive,10081,23,2,4,No,Bachelor's,Divorced,No
+1813,32,Female,Finance,Analyst,5891,25,4,4,No,High School,Single,No
+1814,57,Female,HR,Executive,12897,28,3,1,Yes,Bachelor's,Divorced,No
+1815,34,Female,IT,Technician,6516,2,4,2,No,Master's,Divorced,Yes
+1816,24,Male,Marketing,Manager,6340,13,4,2,No,PhD,Single,No
+1817,54,Female,Operations,Technician,9410,24,4,1,No,Bachelor's,Divorced,No
+1818,27,Male,Finance,Manager,3053,16,3,1,No,Bachelor's,Single,No
+1819,31,Male,Finance,Specialist,5575,15,1,1,No,Bachelor's,Married,No
+1820,26,Female,IT,Analyst,14783,25,3,2,Yes,Master's,Single,No
+1821,44,Male,HR,Specialist,3615,10,4,2,No,Master's,Single,No
+1822,31,Female,Marketing,Specialist,8944,14,3,4,No,Bachelor's,Single,No
+1823,23,Female,HR,Technician,10404,10,4,4,Yes,Bachelor's,Divorced,No
+1824,34,Female,Sales,Analyst,3954,25,1,2,No,Master's,Single,No
+1825,23,Female,Sales,Manager,13625,14,2,4,Yes,Bachelor's,Single,No
+1826,41,Female,Operations,Manager,4629,26,1,1,No,Bachelor's,Single,No
+1827,22,Male,IT,Executive,13973,23,1,3,No,High School,Married,Yes
+1828,58,Male,IT,Manager,9859,9,2,4,Yes,Bachelor's,Single,No
+1829,30,Female,IT,Technician,11841,25,3,2,No,Bachelor's,Divorced,No
+1830,38,Female,Operations,Specialist,13539,14,2,4,No,Master's,Single,Yes
+1831,30,Male,Sales,Specialist,6278,3,3,4,Yes,Bachelor's,Single,No
+1832,32,Male,HR,Specialist,8455,20,3,4,No,Bachelor's,Married,No
+1833,36,Male,Operations,Analyst,13832,16,4,3,No,Bachelor's,Single,No
+1834,45,Male,Operations,Manager,6801,2,4,1,No,Bachelor's,Divorced,No
+1835,59,Female,HR,Technician,5561,10,2,2,Yes,High School,Single,No
+1836,56,Female,IT,Analyst,14441,3,1,3,No,Bachelor's,Divorced,Yes
+1837,51,Male,Marketing,Executive,9539,11,2,2,Yes,Master's,Married,No
+1838,52,Female,HR,Technician,3370,11,3,2,No,High School,Single,No
+1839,26,Male,Sales,Technician,3857,21,4,2,Yes,High School,Married,No
+1840,35,Female,Finance,Technician,7886,21,2,3,No,High School,Single,No
+1841,32,Male,Finance,Specialist,10485,22,2,1,No,Bachelor's,Divorced,Yes
+1842,30,Female,Operations,Technician,3383,13,4,2,No,Master's,Married,No
+1843,55,Male,Finance,Manager,13744,7,4,1,No,High School,Single,No
+1844,33,Male,Marketing,Technician,7334,23,4,1,Yes,PhD,Divorced,No
+1845,56,Female,IT,Specialist,7290,17,3,4,Yes,High School,Married,No
+1846,56,Male,Sales,Technician,5725,2,4,3,No,Master's,Single,No
+1847,22,Female,Marketing,Executive,14485,12,1,3,No,Bachelor's,Married,No
+1848,43,Female,Sales,Executive,9204,25,2,4,Yes,Bachelor's,Single,No
+1849,50,Male,Sales,Specialist,9111,10,4,4,No,Bachelor's,Divorced,No
+1850,29,Female,IT,Manager,7251,18,4,1,No,Bachelor's,Divorced,No
+1851,32,Female,Operations,Manager,3922,22,3,2,No,Master's,Married,No
+1852,58,Female,Finance,Analyst,5915,27,3,3,Yes,Master's,Married,No
+1853,35,Female,IT,Specialist,14142,11,2,2,Yes,Bachelor's,Single,No
+1854,51,Female,Marketing,Technician,10957,16,1,2,Yes,High School,Divorced,Yes
+1855,56,Male,Operations,Specialist,6046,17,2,4,No,High School,Single,No
+1856,42,Female,Marketing,Analyst,12166,19,4,2,No,Master's,Divorced,Yes
+1857,58,Female,Operations,Specialist,4230,18,1,1,No,Bachelor's,Married,No
+1858,26,Female,Marketing,Specialist,13627,3,1,4,No,Bachelor's,Single,No
+1859,40,Female,IT,Analyst,10647,21,1,2,No,Bachelor's,Single,No
+1860,35,Female,Operations,Manager,13006,27,1,4,No,Master's,Divorced,No
+1861,47,Male,Operations,Technician,14126,26,2,1,No,Bachelor's,Divorced,Yes
+1862,25,Female,Sales,Analyst,7933,16,3,1,Yes,Master's,Divorced,No
+1863,46,Male,Sales,Executive,12555,6,3,2,No,Master's,Married,No
+1864,46,Male,HR,Manager,6940,25,4,4,No,Bachelor's,Single,No
+1865,39,Male,Marketing,Executive,9483,12,3,2,Yes,Bachelor's,Divorced,Yes
+1866,29,Male,Sales,Manager,3203,11,3,2,No,Master's,Married,No
+1867,35,Female,HR,Technician,3160,15,3,4,Yes,Bachelor's,Divorced,No
+1868,53,Male,Sales,Technician,11960,15,3,2,No,PhD,Single,No
+1869,59,Male,Marketing,Specialist,6748,16,4,1,No,High School,Divorced,No
+1870,54,Female,Operations,Executive,9718,10,2,4,No,High School,Single,No
+1871,44,Female,Finance,Manager,5581,12,1,4,No,PhD,Married,No
+1872,36,Female,Marketing,Technician,4093,28,3,4,Yes,Bachelor's,Married,No
+1873,54,Male,IT,Analyst,7500,13,2,4,No,Bachelor's,Divorced,No
+1874,46,Female,Sales,Technician,11799,4,3,2,Yes,Master's,Single,No
+1875,38,Female,Sales,Analyst,8710,7,3,2,No,Bachelor's,Single,No
+1876,54,Male,Operations,Manager,12732,22,1,1,No,Bachelor's,Single,No
+1877,23,Female,IT,Technician,5875,2,1,3,No,High School,Divorced,No
+1878,35,Female,Operations,Technician,6191,26,1,3,No,Master's,Single,No
+1879,27,Female,IT,Manager,4837,27,3,1,No,Master's,Single,No
+1880,27,Female,Finance,Technician,3689,27,3,3,No,High School,Single,Yes
+1881,24,Male,Sales,Analyst,6759,27,3,1,No,Master's,Single,No
+1882,28,Female,Sales,Technician,14141,15,1,2,No,Master's,Divorced,Yes
+1883,29,Female,Finance,Executive,5103,8,4,4,Yes,Bachelor's,Divorced,No
+1884,36,Male,HR,Specialist,3365,7,2,4,No,Bachelor's,Single,Yes
+1885,50,Female,Operations,Analyst,14767,15,4,2,No,Bachelor's,Single,No
+1886,54,Male,Finance,Executive,11092,23,3,4,Yes,Bachelor's,Married,No
+1887,51,Female,Operations,Manager,7172,14,3,4,No,Master's,Married,No
+1888,48,Male,Marketing,Analyst,9033,8,4,3,Yes,Master's,Single,Yes
+1889,57,Male,Sales,Specialist,5378,28,3,2,No,Bachelor's,Single,No
+1890,50,Male,Operations,Specialist,4205,12,2,3,Yes,Bachelor's,Married,No
+1891,59,Male,IT,Manager,7988,13,3,3,No,High School,Married,No
+1892,54,Female,Operations,Manager,8669,11,2,4,Yes,High School,Single,No
+1893,58,Male,Marketing,Analyst,5735,17,4,4,No,Bachelor's,Divorced,No
+1894,48,Female,Sales,Technician,14539,29,4,2,No,High School,Divorced,No
+1895,54,Male,Finance,Manager,12867,17,3,4,No,Bachelor's,Single,No
+1896,25,Male,Marketing,Technician,11490,24,2,4,No,Bachelor's,Single,Yes
+1897,43,Male,Sales,Executive,3956,4,3,2,No,Master's,Married,No
+1898,23,Female,Operations,Specialist,12306,21,1,4,Yes,Bachelor's,Married,No
+1899,31,Male,HR,Technician,9623,8,1,3,Yes,Bachelor's,Divorced,No
+1900,26,Female,HR,Specialist,13697,5,1,2,No,Bachelor's,Single,No
+1901,31,Female,IT,Technician,4474,26,1,4,No,High School,Married,No
+1902,54,Female,Sales,Executive,7460,16,3,1,Yes,High School,Divorced,No
+1903,59,Female,HR,Manager,10002,4,1,2,No,Bachelor's,Divorced,No
+1904,34,Female,Finance,Executive,14918,28,2,2,Yes,Master's,Divorced,No
+1905,52,Female,Sales,Manager,14663,22,4,1,Yes,High School,Married,No
+1906,57,Female,Finance,Manager,9396,29,4,4,No,Master's,Married,No
+1907,45,Female,Finance,Specialist,5828,15,1,4,No,PhD,Single,No
+1908,36,Female,HR,Executive,5850,12,1,2,No,Master's,Single,Yes
+1909,50,Male,Sales,Technician,13698,5,1,2,No,Bachelor's,Divorced,No
+1910,29,Male,Operations,Executive,14962,23,3,4,No,PhD,Divorced,No
+1911,26,Male,Marketing,Specialist,5964,16,4,4,No,High School,Married,No
+1912,50,Male,HR,Manager,7594,14,1,3,Yes,Bachelor's,Married,Yes
+1913,25,Male,HR,Specialist,12141,10,2,2,Yes,Master's,Single,No
+1914,33,Female,Operations,Analyst,9644,7,1,2,No,Bachelor's,Single,No
+1915,23,Female,Sales,Analyst,5850,13,4,1,No,Bachelor's,Single,No
+1916,48,Female,Sales,Technician,3165,20,1,3,No,Bachelor's,Married,No
+1917,52,Female,Finance,Specialist,14678,28,4,4,Yes,Bachelor's,Divorced,No
+1918,57,Female,Operations,Technician,13701,29,1,3,Yes,Bachelor's,Single,Yes
+1919,57,Female,Operations,Technician,3919,5,2,4,No,Bachelor's,Single,Yes
+1920,47,Female,Sales,Analyst,11305,29,1,4,Yes,PhD,Married,No
+1921,48,Male,Finance,Technician,6504,3,2,3,No,PhD,Single,No
+1922,26,Male,HR,Analyst,3991,15,2,2,Yes,Master's,Divorced,Yes
+1923,41,Male,IT,Manager,9047,4,1,4,Yes,Bachelor's,Married,Yes
+1924,32,Male,Marketing,Specialist,6839,15,2,3,No,Bachelor's,Single,Yes
+1925,31,Female,HR,Technician,4258,14,3,1,No,PhD,Single,No
+1926,59,Female,Sales,Analyst,10609,20,1,3,No,Master's,Married,Yes
+1927,27,Female,Marketing,Executive,14618,19,1,1,Yes,Bachelor's,Married,No
+1928,29,Male,IT,Technician,11706,13,2,4,No,High School,Single,No
+1929,44,Female,IT,Manager,7804,10,2,3,Yes,High School,Divorced,Yes
+1930,47,Female,Finance,Manager,14388,21,1,3,No,Bachelor's,Married,No
+1931,33,Female,Marketing,Executive,13776,5,3,1,No,Bachelor's,Divorced,No
+1932,47,Male,Finance,Analyst,3067,27,2,3,Yes,Master's,Single,No
+1933,34,Female,HR,Technician,12788,23,2,3,No,Bachelor's,Divorced,No
+1934,39,Male,Operations,Analyst,8660,20,4,4,Yes,High School,Single,No
+1935,46,Male,Operations,Manager,7478,29,3,3,No,Bachelor's,Single,No
+1936,54,Male,Operations,Analyst,11210,20,3,2,No,Bachelor's,Single,Yes
+1937,33,Male,Marketing,Manager,13922,25,1,1,No,High School,Single,Yes
+1938,57,Female,Operations,Analyst,6521,6,3,3,Yes,Bachelor's,Divorced,No
+1939,25,Male,HR,Executive,3572,4,1,1,No,Bachelor's,Single,No
+1940,26,Male,Finance,Specialist,10082,2,4,1,No,Master's,Single,No
+1941,58,Female,Marketing,Executive,10832,22,3,1,No,Bachelor's,Divorced,No
+1942,29,Female,Finance,Executive,8395,16,2,3,No,Bachelor's,Married,No
+1943,49,Male,Marketing,Specialist,5258,18,4,3,Yes,Bachelor's,Divorced,No
+1944,52,Female,Finance,Specialist,14094,5,1,1,No,Master's,Divorced,No
+1945,30,Male,IT,Technician,9039,22,4,2,Yes,High School,Divorced,No
+1946,50,Male,Finance,Technician,3650,4,1,1,Yes,Master's,Single,No
+1947,35,Male,Operations,Executive,8741,13,4,2,No,Bachelor's,Single,No
+1948,43,Male,IT,Executive,9838,19,1,1,No,Master's,Single,No
+1949,32,Female,Finance,Manager,5587,23,3,4,No,Master's,Married,No
+1950,44,Male,Marketing,Manager,10876,2,2,1,No,Bachelor's,Single,No
+1951,22,Female,Marketing,Technician,6262,13,1,1,No,Bachelor's,Married,No
+1952,58,Female,Marketing,Technician,4338,11,4,3,No,High School,Single,Yes
+1953,42,Female,Sales,Manager,7996,22,1,2,No,Master's,Divorced,No
+1954,47,Female,HR,Manager,14826,29,1,4,Yes,Bachelor's,Single,Yes
+1955,57,Male,Marketing,Analyst,8780,4,1,2,No,Bachelor's,Married,Yes
+1956,44,Female,IT,Analyst,5827,22,4,4,Yes,Master's,Married,No
+1957,22,Male,Marketing,Manager,8232,20,2,1,No,Master's,Single,Yes
+1958,36,Female,Sales,Analyst,5217,20,3,3,No,Bachelor's,Divorced,No
+1959,42,Female,Operations,Specialist,6539,15,2,3,No,Bachelor's,Single,No
+1960,30,Male,IT,Technician,10845,4,1,2,No,Bachelor's,Single,No
+1961,30,Male,Sales,Technician,12229,9,4,3,Yes,Bachelor's,Single,No
+1962,31,Male,Operations,Manager,7383,7,2,2,No,Bachelor's,Divorced,Yes
+1963,47,Female,IT,Executive,5961,19,1,2,Yes,Bachelor's,Married,Yes
+1964,56,Female,Finance,Manager,6226,19,3,4,No,Bachelor's,Divorced,No
+1965,46,Male,HR,Analyst,9837,6,3,2,No,Master's,Married,No
+1966,47,Male,HR,Executive,10031,6,3,4,No,High School,Married,No
+1967,32,Male,Sales,Analyst,12290,20,1,3,Yes,Bachelor's,Married,Yes
+1968,59,Male,Operations,Specialist,13516,15,4,2,Yes,Bachelor's,Divorced,No
+1969,23,Female,HR,Analyst,12131,15,2,2,Yes,High School,Single,No
+1970,28,Male,Operations,Specialist,6716,25,3,1,No,High School,Single,No
+1971,39,Male,Operations,Specialist,6414,20,1,2,No,Bachelor's,Single,No
+1972,48,Male,Sales,Analyst,4448,9,1,2,Yes,Master's,Single,Yes
+1973,55,Male,Sales,Analyst,3570,4,2,1,No,High School,Single,No
+1974,48,Female,Sales,Specialist,5904,18,3,1,No,High School,Divorced,No
+1975,38,Male,HR,Executive,5505,18,1,3,No,PhD,Divorced,No
+1976,45,Female,Sales,Specialist,3917,5,2,2,No,High School,Divorced,Yes
+1977,46,Male,HR,Technician,13066,20,4,3,No,Master's,Divorced,No
+1978,28,Male,Sales,Specialist,9982,23,4,3,Yes,Bachelor's,Divorced,Yes
+1979,27,Female,Marketing,Executive,10427,11,4,1,Yes,Master's,Divorced,Yes
+1980,45,Male,Operations,Technician,9336,5,3,4,Yes,Bachelor's,Divorced,No
+1981,54,Female,Sales,Manager,4678,22,2,3,No,Master's,Single,Yes
+1982,50,Female,IT,Manager,3615,26,2,4,No,Master's,Married,No
+1983,43,Male,Operations,Executive,12941,4,1,2,No,Bachelor's,Divorced,No
+1984,47,Female,Operations,Specialist,10086,29,1,1,Yes,High School,Married,Yes
+1985,49,Female,Sales,Analyst,13669,12,1,2,No,Master's,Divorced,Yes
+1986,42,Female,Finance,Executive,7749,2,2,2,Yes,Bachelor's,Divorced,No
+1987,28,Female,Sales,Technician,6505,13,1,1,Yes,High School,Single,Yes
+1988,38,Female,Operations,Technician,14667,10,2,2,No,High School,Married,No
+1989,41,Female,IT,Manager,7529,9,2,1,No,Master's,Single,No
+1990,41,Female,Operations,Technician,4135,10,4,4,No,Bachelor's,Single,No
+1991,43,Female,IT,Executive,11566,7,1,2,No,Bachelor's,Married,No
+1992,49,Male,HR,Technician,10226,4,4,1,Yes,Bachelor's,Single,Yes
+1993,28,Male,Marketing,Executive,8162,19,3,3,Yes,Master's,Divorced,Yes
+1994,22,Female,Operations,Analyst,3206,10,3,2,No,PhD,Divorced,Yes
+1995,53,Male,Sales,Manager,7875,3,3,4,No,PhD,Divorced,No
+1996,34,Female,HR,Technician,4319,25,2,1,No,High School,Divorced,No
+1997,51,Female,Marketing,Executive,4141,21,2,2,No,Master's,Divorced,No
+1998,44,Male,Sales,Specialist,7627,29,2,2,No,Bachelor's,Single,Yes
+1999,40,Female,Finance,Manager,10389,19,1,2,Yes,Bachelor's,Single,No
+2000,53,Female,Sales,Analyst,5690,21,4,4,Yes,Bachelor's,Divorced,No
